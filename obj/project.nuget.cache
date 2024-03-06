@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkF3St+CYd+J2dlBuvjEOnEos7LNxVxnmgpV6VmwMyxSM3Z82HJ06nhMCXmMMuGEUah7q3iRiRzA8G4fFm1DIA==",
+  "success": true,
+  "projectFilePath": "/home/ricky/Documentos/curso-docker/api-test/api-test.csproj",
+  "expectedPackageFiles": [
+    "/home/ricky/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ricky/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ricky/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/ricky/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/ricky/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/ricky/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
